@@ -34,7 +34,7 @@
     "cheerio": "^1.0.0-rc.3",
     "commander": "^6.0.0",
     "htmlparser2": "^4.0.0",
-    "pug-lint": "^2.6.0",
+    "pug-lint": "git+https://github.com/effrenus/pug-lint.git#7b668059cee987473a5a5c20262d255d27736ae7",
     "text-table": "^0.2.0",
     "walk": "^2.3.14"
   },
